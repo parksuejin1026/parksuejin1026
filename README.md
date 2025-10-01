@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2D3748&height=300&section=header&text=Hello!%20I'm%20Suejin&fontSize=90&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient,0:B210FF,100:21E1E1&height=300&section=header&text=Hello!%20I'm%20Suejin&fontSize=90&animation=fadeIn&fontColor=ffffff)
 
 <br>
 
@@ -29,8 +29,8 @@
 <div align="center">
   <h3><strong>📊 My GitHub Stats 📊</strong></h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=parksuejin1026&show_icons=true&theme=github_dark&rank_icon=github" alt="parksuejin1026's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=parksuejin1026&show_icons=true&theme=tokyonight&rank_icon=github" alt="parksuejin1026's GitHub stats"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parksuejin1026&layout=compact&theme=github_dark" alt="parksuejin1026's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parksuejin1026&layout=compact&theme=tokyonight" alt="parksuejin1026's Top Languages"/>
   </p>
 </div>
