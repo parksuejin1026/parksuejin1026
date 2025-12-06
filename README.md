@@ -2,20 +2,31 @@
 
 <br>
 
-> 🙋‍♀️ **안녕하세요!** 항상 **다양한 분야**에 관심을 갖고 **발전하고 싶어하는** 개발자 **박수진**입니다!
+## 🙋‍♀️ 안녕하세요!
+> **최근 인공지능에 많은 관심이 생겨 제가 하고싶은 것을 찾기위해 인공지능에 관련된 다양한 분야를 공부를 하고 있는 상태입니다!**
 
 <div align="center">
+  <br>
   <h3><strong>🔥 Featured Projects 🔥</strong></h3>
-  <p>
-    - 💡 **[MODORI 프로젝트 (UniMate)]** : Next.js 14, TypeScript, Tailwind CSS, MongoDB, OpenAI API(RAG)
-    - 🎮 **[OSS 프로젝트] (오목 대전)** : Next.js, TypeScript, Socket.IO, MongoDB **(PVE 대전)**
-  </p>
+</div>
+
+<div align="center">
+  
+  #### 💡 [MODORI 프로젝트 (UniMate)](https://github.com/parksuejin1026/MoDoRi_Project)
+  > 대학 학칙 정보 접근성을 혁신하고 학생 간의 소통을 돕는 AI 기반 풀스택 모바일 웹 서비스입니다.
+  
+  ---
+  
+  #### 🎮 [OSS 프로젝트 (오목 대전)](https://github.com/parksuejin1026/LegendProject-2025)
+  > PVE 대전 기능을 가진 온라인 실시간 게임 서비스입니다.
+  
+  <br>
 </div>
 
 <div align="center">
   <h3><strong>🛠️ Tech Stacks 🛠️</strong></h3>
   
-  <h4>Frontend & Fullstack</h4>
+  <h4>**💻 Frontend & Fullstack**</h4>
   <p>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -25,14 +36,14 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </p>
 
-  <h4>Backend & Language</h4>
+  <h4>**⚙️ Backend & Language**</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   </p>
   
-  <h4>Database & AI Tool</h4>
+  <h4>**💾 Database & AI Tool**</h4>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -58,10 +69,6 @@
 <div align="center">
   <h3><strong>📊 My GitHub Stats 📊</strong></h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=parksuejin1026&show_icons=true&theme=tokyonight&rank_icon=github" alt="parksuejin1026's GitHub stats" decoding="async" loading="lazy"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parksuejin1026&layout=compact&theme=tokyonight" alt="parksuejin1026's Top Languages" decoding="async" loading="lazy"/>
-    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=parksuejin1026&theme=tokyonight&hide_border=true" alt="parksuejin1026's streak stats" decoding="async" loading="lazy"/>
   </p>
 </div>
