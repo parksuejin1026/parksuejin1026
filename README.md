@@ -73,9 +73,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=parksuejin1026&theme=tokyonight&hide_border=true" alt="parksuejin1026's streak stats" decoding="async" loading="lazy"/>
   </p>
 </div>
-
-  <p>
-    git config --global user.name "parksuejin1026"<br>
-    git config --global user.email "suejin1026suejin@gmail.com"<br>
-    git init
-  </p>
