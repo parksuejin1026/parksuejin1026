@@ -36,11 +36,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </p>
 
-  <p>
-    git config --global user.name "parksuejin1026"
-    git config --global user.email "suejin1026suejin@gmail.com"
-    git init
-  </p>
+
   <h4>**⚙️ Backend & Language**</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -77,3 +73,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=parksuejin1026&theme=tokyonight&hide_border=true" alt="parksuejin1026's streak stats" decoding="async" loading="lazy"/>
   </p>
 </div>
+
+  <p>
+    git config --global user.name "parksuejin1026"<br>
+    git config --global user.email "suejin1026suejin@gmail.com"<br>
+    git init
+  </p>
