@@ -12,12 +12,12 @@
 
 <div align="center">
   
-  #### 💡 [MODORI 프로젝트 (UniMate)](https://github.com/parksuejin1026/MoDoRi_Project)
+  #### 💡 [MODORI 프로젝트 (UniMate)](https://github.com/parksuejin1026/UniMate)
   > 대학 학칙 정보 접근성을 혁신하고 학생 간의 소통을 돕는 AI 기반 풀스택 모바일 웹 서비스입니다.
   
   ---
   
-  #### 🎮 [OSS 프로젝트 (오목 대전)](https://github.com/parksuejin1026/LegendProject-2025)
+  #### 🎮 [OSS 수업 팀 과제 (오목 대전)](https://github.com/parksuejin1026/2025_2ndTerm_OSS_TeamProject)
   > PVE 대전 기능을 가진 온라인 실시간 게임 서비스입니다.
   
   <br>
